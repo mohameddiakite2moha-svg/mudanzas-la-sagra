@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mudanzas La Sagra | Yuncler de la Sagra</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- CABECERA -->
+  <header class="header">
+    <div class="container">
+      <h1>Mudanzas La Sagra</h1>
+      <div class="contact-header">
+        <a href="tel:622388602">📞 622 388 602</a>
+        <a class="whatsapp" href="https://wa.me/34622388602" target="_blank">💬 WhatsApp</a>
+      </div>
+    </div>
+  </header>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="container">
+      <h2>Mudanzas profesionales en Yuncler de la Sagra</h2>
+      <p>Transportamos muebles, electrodomésticos y pertenencias con total seguridad y puntualidad.</p>
+      <a class="btn" href="https://wa.me/34622388602" target="_blank">Solicitar presupuesto por WhatsApp</a>
+    </div>
+  </section>
+
+  <!-- SERVICIOS -->
+  <section id="servicios" class="section">
+    <div class="container">
+      <h3>Nuestros servicios</h3>
+      <div class="services">
+        <div class="card">Mudanzas de pisos y casas</div>
+        <div class="card">Transporte de muebles</div>
+        <div class="card">Electrodomésticos</div>
+        <div class="card">Carga y descarga</div>
+        <div class="card">Embalaje y protección</div>
+        <div class="card">Servicios locales y cercanos</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- COMO TRABAJAMOS -->
+  <section class="section light">
+    <div class="container">
+      <h3>Cómo trabajamos</h3>
+      <ol class="steps">
+        <li>Nos llamas o escribes por WhatsApp</li>
+        <li>Te damos presupuesto sin compromiso</li>
+        <li>Organizamos la mudanza</li>
+        <li>Transportamos tus pertenencias con cuidado</li>
+        <li>Entrega puntual</li>
+      </ol>
+    </div>
+  </section>
+
+  <!-- POR QUÉ ELEGIRNOS -->
+  <section class="section">
+    <div class="container">
+      <h3>Por qué elegirnos</h3>
+      <ul class="reasons">
+        <li>✔ Experiencia en mudanzas</li>
+        <li>✔ Trato directo y cercano</li>
+        <li>✔ Puntualidad garantizada</li>
+        <li>✔ Cuidado total de tus muebles</li>
+        <li>✔ Atención rápida por WhatsApp</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- CONTACTO -->
+  <section id="contacto" class="section light">
+    <div class="container">
+      <h3>Contacto</h3>
+      <p><strong>Zona:</strong> Yuncler de la Sagra (Toledo)</p>
+      <p><strong>Teléfono / WhatsApp:</strong> 622 388 602</p>
+      <a class="btn" href="tel:622388602">Llamar ahora</a>
+      <a class="btn whatsapp" href="https://wa.me/34622388602" target="_blank">Enviar WhatsApp</a>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <p>© 2026 Mudanzas La Sagra · Yuncler de la Sagra</p>
+  </footer>
+
+</body>
+</html>
